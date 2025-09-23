@@ -1,0 +1,1 @@
+course://web.backend?name=%22Гонцар%20Олег%22&group=%22ФЕІ-26с%22&subgroup=%22Підгрупа%201%22#OlehHontsar
