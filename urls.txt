@@ -1,1 +1,2 @@
 course://web.backend?name=%22Гонцар%20Олег%22&group=%22ФЕІ-26с%22&subgroup=%22Підгрупа%201%22#OlehHontsar
+curl "https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=20220228&json" > international_reserves_20220228.json
